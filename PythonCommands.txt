@@ -1,0 +1,11 @@
+Open Python Interpreter
+----------
+python3
+
+Close Python Interpreter
+----------
+Control + D
+
+Run Python File
+----------
+python << file name >>
