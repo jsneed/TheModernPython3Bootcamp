@@ -1,6 +1,8 @@
 Open Python Interpreter
 ----------
 python3
+python2
+python
 
 Close Python Interpreter
 ----------
