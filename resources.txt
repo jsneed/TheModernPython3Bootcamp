@@ -1,29 +1,34 @@
 Python 2 vs Python 3
----------------------
+------------------------------------------
 http://py3readiness.org
 https://pythonclock.org
 http://sebastianraschka.com/Articles/2014_python_2_3_key_diff.html
 
 Python Homepage
----------------------
+------------------------------------------
 https://www.python.org
 
 Python 3 Docs
----------------------
+------------------------------------------
 https://docs.python.org/3/
 
 Python 3 - Style Guide
----------------------
+------------------------------------------
 https://www.python.org/dev/peps/pep-0008/
 
 Python 3 - Auto Style Formatter
----------------------
+------------------------------------------
 https://pypi.org/project/autopep8/0.8/
 
 Generator Expressions vs List Comprehension
----------------------
+------------------------------------------
 https://stackoverflow.com/questions/47789/generator-expressions-vs-list-comprehension
 
 Search Python Packages to Install
----------------------
+------------------------------------------
 https://pypi.org
+
+An Explanation on Modules and Packages (Since this course kind of glosses over them)
+------------------------------------------
+https://realpython.com/python-modules-packages/
+https://www.learnpython.org/en/Modules_and_Packages
