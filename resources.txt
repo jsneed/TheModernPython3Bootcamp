@@ -28,6 +28,14 @@ Search Python Packages to Install
 ------------------------------------------
 https://pypi.org
 
+Simple Python Version Management
+------------------------------------------
+https://github.com/pyenv/pyenv
+
+How to Install Multiple Versions of Python
+------------------------------------------
+https://weknowinc.com/blog/running-multiple-python-versions-mac-osx
+
 An Explanation on Modules and Packages (Since this course kind of glosses over them)
 ------------------------------------------
 https://realpython.com/python-modules-packages/
